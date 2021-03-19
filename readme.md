@@ -1,5 +1,5 @@
 # Отчёт по lab00
-1) `$ cmake --version`
+1) `$ cmake --version`<br/>
     Эта команда проверяет версию cmake
     ```
     cmake version 3.18.4
